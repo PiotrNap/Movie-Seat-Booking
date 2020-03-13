@@ -119,6 +119,13 @@ body {
   margin-bottom: 20px;
 }
 
+p.text span {
+  color: #69ff88;
+}
+
+p.text {
+  margin: 5px 0;
+}
 .row {
   display: flex;
 }
